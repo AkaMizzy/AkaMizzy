@@ -7,7 +7,7 @@
 ### 🧑‍💻 À propos de moi 🧑‍💻
 
 ```javascript
-const zawak = {
+const AkaMizzy = {
   location: "Morocco 🇲🦁",
   role: "Software engineering student 👨‍💻✅",
   passions: ["Full Stack Development", "UI/UX Design", "Problem solving"],
